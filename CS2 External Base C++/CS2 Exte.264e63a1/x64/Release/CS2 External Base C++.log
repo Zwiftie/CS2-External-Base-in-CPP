@@ -1,0 +1,15 @@
+﻿  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Aimbot.cpp
+  ESP.cpp
+  Main.cpp
+  Misc.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1966 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CS2 External Base C++.vcxproj -> C:\CS2 External Base C++\CS2 External Base C++\x64\Release\CS2 External Base C++.exe
